@@ -9,10 +9,17 @@ window.STORE_CONFIG = {
     { quantity: 5, discount: 30, total: 52.15, unit: 10.43 },
     { quantity: 10, discount: 35, total: 96.85, unit: 9.685 }
   ],
-
-  // Optional: Stripe / Shopify / another hosted checkout URL.
   checkoutUrl: "",
-
-  // Change before launch.
   contactEmail: "info@example.com"
 };
+
+// Compatibility elements expected by app.js. Kept invisible because the real sale price is rendered in the page.
+(() => {
+  const box = document.createElement('div');
+  box.id = 'priceBox';
+  box.style.display = 'none';
+  const price = document.createElement('span');
+  price.id = 'priceText';
+  box.appendChild(price);
+  document.body.appendChild(box);
+})();
