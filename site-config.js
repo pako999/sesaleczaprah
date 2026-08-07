@@ -1,11 +1,18 @@
 window.STORE_CONFIG = {
-  // Add your selling price before launch, e.g. "29,90 €". Leave empty to hide the price.
-  price: "",
+  originalPrice: "24,90 €",
+  price: "14,90 €",
+  currency: "EUR",
+  volumeOffers: [
+    { quantity: 1, discount: 0, total: 14.90, unit: 14.90 },
+    { quantity: 2, discount: 10, total: 26.82, unit: 13.41 },
+    { quantity: 3, discount: 20, total: 35.76, unit: 11.92 },
+    { quantity: 5, discount: 30, total: 52.15, unit: 10.43 },
+    { quantity: 10, discount: 35, total: 96.85, unit: 9.685 }
+  ],
 
-  // Optional: if you use Stripe / Shopify / another checkout, paste the payment/product URL here.
-  // When set, the form will open this link after the order details are saved.
+  // Optional: Stripe / Shopify / another hosted checkout URL.
   checkoutUrl: "",
 
-  // Contact shown in the footer and used by the serverless order endpoint.
+  // Change before launch.
   contactEmail: "info@example.com"
 };
