@@ -1,0 +1,17 @@
+{
+  "slug": "lovilec-prahu-za-vrtalnik",
+  "title": "Lovilec prahu za vrtalnik: kako izbrati pravo rešitev",
+  "description": "Vodič za izbiro lovilca oziroma zbiralnika prahu za vrtalnik: priklop sesalne cevi, sesalna moč, površina in praktična uporaba.",
+  "lead": "Na voljo so preproste posodice, lovilci brez sesalnika in nastavki, ki se priklopijo na sesalno cev. Prava izbira je odvisna predvsem od tega, koliko lukenj vrtaš in kako pomembna sta hitrost ter čistoča.",
+  "sections": [
+    ["Tri osnovne vrste lovilcev prahu","Pasivni lovilci zbirajo material v posodici, različice z elastičnim pokrovom se namestijo okoli svedra, vakuumski nastavki pa prah aktivno odvajajo v sesalnik. Pri več luknjah ima aktivno sesanje prednost, ker posode ni treba prazniti po vsaki vrtini."],
+    ["Preveri priklop sesalne cevi","Najpomembnejša praktična točka je premer priklopa. Pred nakupom izmeri svojo sesalno cev in preveri, ali potrebuješ adapter. Univerzalno ne pomeni vedno, da bo vsaka cev sedla brez vmesnika."],
+    ["Pomembna je tudi površina","Da se vakuumski zbiralnik drži sam, mora sesalnik ustvariti dovolj podtlaka, rob zbiralnika pa mora dovolj dobro tesniti ob površini. Zelo grobe, porozne ali močno reliefne stene lahko zmanjšajo oprijem."],
+    ["Koliko lukenj boš vrtal?","Za eno luknjo je skoraj vsaka metoda sprejemljiva. Pri montaži kuhinje, polic, garderobe ali več nosilcev pa se razlika pokaže hitro: manj prekinitev pomeni hitrejše delo."],
+    ["Kaj bi izbral za domačo delavnico?","Če že imaš sesalnik in želiš rešitev brez baterij in dodatnega motorja, je preprost vakuumski zbiralnik smiselna izbira. Sesalnik lahko pomaga držati nastavek ob površini in hkrati odvaja prah."]
+  ],
+  "faq": [
+    ["Ali potrebujem industrijski sesalnik?","Ne nujno. Pomembno je, da ima sesalnik dovolj sesalne moči in ustrezen priklop."],
+    ["Kaj če se zbiralnik ne drži stene?","Preveri tesnjenje, čist rob nastavka, moč sesanja in poroznost površine. Po potrebi ga med vrtanjem pridržuj."]
+  ]
+}
