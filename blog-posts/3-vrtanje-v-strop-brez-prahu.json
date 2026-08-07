@@ -1,0 +1,17 @@
+{
+  "slug": "vrtanje-v-strop-brez-prahu",
+  "title": "Vrtanje v strop brez prahu: kako preprečiti, da prah pada nate",
+  "description": "Praktičen vodič za čistejše vrtanje v strop: varen položaj, sesanje prahu pri izvoru in uporaba zbiralnika pri delu nad glavo.",
+  "lead": "Pri vrtanju v strop je prah posebej nadležen, ker pada proti obrazu in prostoru pod tabo. Zato je prestrezanje prahu neposredno ob vrtini še bolj uporabno kot pri vrtanju v steno.",
+  "sections": [
+    ["Najprej pripravi varen položaj","Uporabi stabilno lestev ali delovno ploščad, ne segaj predaleč vstran in poskrbi, da lahko vrtalnik držiš zanesljivo z obema rokama. Zaščita oči je pri delu nad glavo posebej pomembna."],
+    ["Zakaj držanje sesalnika ni idealno","Če z eno roko držiš cev sesalnika, z drugo pa vrtalnik, je nad glavo težje nadzorovati smer in pritisk. Druga oseba lahko pomaga, vendar namenski zbiralnik omogoči bolj samostojno delo."],
+    ["Kako uporabiti vakuumski zbiralnik","Priklopi sesalno cev, vklopi sesanje, zbiralnik prisloni na označeno mesto in preveri, ali ostane stabilno na površini. Nato vrtaj skozi odprtino. Če podlaga ne tesni dobro, nastavek dodatno pridržuj."],
+    ["Kaj pa grobi ali teksturirani stropi?","Na zelo poroznih ali reliefnih površinah je oprijem lahko slabši, ker zrak uhaja ob robu. Funkcija zbiranja prahu je lahko še vedno uporabna, vendar morda ne bo mogoče popolnoma prostoročno delo."],
+    ["Po vrtanju","Pusti sesalnik delovati še trenutek, da pobere preostali prah okoli luknje, nato zbiralnik previdno odstrani. Tako zmanjšaš možnost, da se ostanek materiala razsuje po prostoru."]
+  ],
+  "faq": [
+    ["Je zbiralnik uporaben pri vrtanju betona?","Da, način zbiranja prahu je uporaben tudi pri mineralnih materialih, vendar vedno uporabi primeren sveder in orodje za konkretno podlago."],
+    ["Ali moram še vedno nositi zaščitna očala?","Pri vrtanju nad glavo je zaščita oči zelo priporočljiva tudi ob učinkovitem zbiranju prahu."]
+  ]
+}
