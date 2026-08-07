@@ -1,0 +1,17 @@
+{
+  "slug": "vrtanje-beton-opeka-knauf",
+  "title": "Vrtanje v beton, opeko in knauf: kako zmanjšati prah pri vsakem materialu",
+  "description": "Vrtanje v beton, opeko ali knauf brez nepotrebnega nereda: izbira svedra, način vrtanja in prestrezanje prahu pri izvoru.",
+  "lead": "Količina in vrsta prahu sta odvisni od materiala. Beton in opeka ustvarjata mineralni prah, mavčne plošče pa zelo fin bel prah. Pri vseh pomaga ista osnovna ideja: prah zajemi neposredno ob vrtini.",
+  "sections": [
+    ["Beton","Za beton običajno potrebuješ primeren sveder za beton in glede na podlago udarno vrtanje ali vrtalno kladivo. Prah je lahko zelo fin, zato je aktivno sesanje ob luknji učinkovitejše od čakanja, da vse pade na tla."],
+    ["Opeka","Opeka je pogosto nekoliko mehkejša, vendar lahko pri vrtanju nastane veliko rdečkastega prahu. Za natančno luknjo začni kontrolirano in ne pritiskaj po nepotrebnem. Zbiralnik ob vrtini pomaga, da se prah ne vleče po ometu."],
+    ["Mavčne plošče oziroma knauf","Pri mavčnih ploščah je vrtanje hitro, vendar nastane lahek bel prah, ki se zlahka raznese. Aktivna aspiracija je zato zelo uporabna tudi pri majhnih luknjah. Pred vrtanjem vedno preveri, kje potekajo instalacije in profili."],
+    ["Ploščice in občutljive površine","Pri ploščicah je najprej pomembna pravilna tehnika in primeren sveder. Zbiranje prahu naj ne ovira stabilnega začetka vrtanja. Na gladki površini pa se vakuumski nastavek pogosto dobro oprime."],
+    ["Skupno pravilo za vse materiale","Pravilno orodje, oster sveder in sesanje ob izvoru pomenijo manj nereda in bolj nadzorovan postopek. Zbiralnik prahu ne nadomesti pravilne tehnike ali osebne zaščite, je pa zelo praktičen dodatek."]
+  ],
+  "faq": [
+    ["Ali isti zbiralnik deluje na različnih materialih?","Način sesanja je enak, vendar se oprijem razlikuje glede na gladkost in poroznost površine."],
+    ["Ali zbiralnik nadomesti zaščitno opremo?","Ne. Pri zahtevnejšem ali daljšem vrtanju uporabi ustrezno zaščito glede na material in način dela."]
+  ]
+}
